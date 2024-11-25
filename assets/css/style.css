@@ -92,6 +92,10 @@ img {
   display: block;
 }
 
+.third-text {
+  color: var(--first-color);
+}
+
 /* custom css classes */
 
 /* layout */
